@@ -27,7 +27,7 @@ Ideal for entrepreneurs seeking:
 - Elevator / Escalator Maintenance
 - Septic / Sewer Services
 
-(Full entrepreneur snapshots, startup costs, licensing, future-proof angles → [local-service-business-blueprints.md](./local-service-business-blueprints.md))
+(Full entrepreneur snapshots, startup costs, licensing, future-proof angles → [future-proof-trades.md](./future-proof-trades.md))
 
 ## Why These Models Endure
 
