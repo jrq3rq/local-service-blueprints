@@ -400,3 +400,14 @@ Stop measuring token quality. Start measuring **communication success**.
 
 **Contributing**
 Submit new pillar implementations, unit tests, eval improvements, or case studies via pull request.
+
+---
+
+## ⚠️ Contrarian View: Velocity Over Verbiage
+
+This manifesto emphasizes long-term structure, reliability, and human-like communication. However, many experienced builders argue that **over-engineering too early kills velocity**.
+
+For a sharp counter-perspective that challenges several core assumptions in this document, see:
+
+→ **[contrarian-perspective.md](contrarian-perspective.md)**
+*(“A perfect protocol is the tombstone of a dead project.”)*
